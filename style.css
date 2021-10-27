@@ -1,0 +1,65 @@
+.logo_fb{
+	height: 30px;
+	
+}
+
+.logo_insta{
+	height: 30px;
+}
+
+.photoprofil{
+	border-radius: 50%;
+}
+
+
+body{
+	background-color: lightgrey;
+	color: 6C4A4A; 
+	font-family: arial;
+	text-align: center;
+}
+
+h1, h2 {font-family: helvetika;}
+
+h1	{
+	color: 212121 ;
+	font-weight: 150;
+	letter-spacing: 10px;
+	font-size: 40px;
+}
+
+h2{
+	color: hotpink;
+	font-weight: lighter;
+	letter-spacing: 8px;
+	font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: darkblue;
+
+}
+a:hover{
+	color: purple;
+}
+
+/* custom design with class */
+
+.container { 
+	width: 700px;
+	margin: 40px auto;
+	 }
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+}
+
+ul {
+	list-style-type: none;
+}
+
